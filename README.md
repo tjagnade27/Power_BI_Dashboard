@@ -1,7 +1,7 @@
 # Power_BI_Dashboard 
 Created database in SQL Server Management Studio from Excel- joined multiple tables in SSMS - Created a dashboard by pulling SQL queries from created database
 
-# PROBLEM STATEMNET
+# PROBLEM STATEMENT
 # Built a visual data story or dashboard using Power BI to present to your Stakeholders
 
 1. Is our hotel revenue growing by year ?
